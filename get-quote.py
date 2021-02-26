@@ -12,5 +12,11 @@ def primary():
   print(quotes[rnd1])
   print(quotes[rnd2])
 
+def addNewQuotes():
+	f = open("quotes.txt", "a")
+	f.writelines(["\nQuote 1", "\nQuote 2"])
+	f.close()
+
 if __name__== "__main__":
-  primary()
+  #primary()
+  addNewQuotes()

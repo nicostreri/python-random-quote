@@ -13,3 +13,5 @@ Avoid administrative distraction
 Design for failure
 Keep it logically awesome
 Never memorize something that you can look up.
+Quote 1
+Quote 2
